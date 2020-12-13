@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e2afd10-a72b-488a-aad7-19a79cedc2a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1l2yluzFim4XgjRUkeBEMxuqVBx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Services/phpmailer" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/Views/" />
+      <recent name="$PROJECT_DIR$/../../.." />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Services/phpmailer" />
+      <recent name="$PROJECT_DIR$/app/Views" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/Views/auth/include" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2afd10-a72b-488a-aad7-19a79cedc2a6" name="Default Changelist" comment="" />
+      <created>1606809634694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606809634694</updated>
+      <workItem from="1606809635860" duration="5231000" />
+      <workItem from="1606845761615" duration="511000" />
+      <workItem from="1606846354110" duration="937000" />
+      <workItem from="1606847388991" duration="6321000" />
+      <workItem from="1606917049482" duration="2769000" />
+      <workItem from="1606966265784" duration="4074000" />
+      <workItem from="1606998016772" duration="15004000" />
+      <workItem from="1607077555418" duration="15540000" />
+      <workItem from="1607172670168" duration="13874000" />
+      <workItem from="1607260965564" duration="118399000" />
+      <workItem from="1607675895351" duration="12651000" />
+      <workItem from="1607743240899" duration="25374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="69" key="#CLI_Interpreters" timestamp="1607085496160">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="69" key="#CLI_Interpreters/0.0.1440.900@0.0.1440.900" timestamp="1607085496160" />
+    <state x="308" y="87" key="#CLI_Interpreters/0.25.1440.808@0.25.1440.808" timestamp="1606832083524" />
+    <state x="401" y="75" key="#PHP" timestamp="1606832085308">
+      <screen x="0" y="25" width="1440" height="808" />
+    </state>
+    <state x="401" y="75" key="#PHP/0.25.1440.808@0.25.1440.808" timestamp="1606832085308" />
+    <state x="85" y="283" key="#SQL_Dialects" timestamp="1607012276644">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="85" y="283" key="#SQL_Dialects/0.0.1440.900@0.0.1440.900" timestamp="1607012276644" />
+    <state x="184" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607189263791">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607189263791" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.806@0.25.1440.806" timestamp="1606846919941" />
+    <state x="595" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1607795401734">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="595" y="114" key="#com.intellij.ide.util.MemberChooser/0.25.1440.806@0.25.1440.806" timestamp="1607795401734" />
+    <state x="405" y="222" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607794798415">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="405" y="222" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.806@0.25.1440.806" timestamp="1607794798415" />
+    <state x="111" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607868536241">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="111" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.806@0.25.1440.806" timestamp="1607868536241" />
+    <state x="480" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607014456004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="480" y="309" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1607014456004" />
+    <state x="480" y="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.806@0.25.1440.806" timestamp="1606847298803" />
+    <state x="448" y="158" key="NewPhpClassDialog" timestamp="1607794799719">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="448" y="149" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1607526735917" />
+    <state x="448" y="158" key="NewPhpClassDialog/0.25.1440.806@0.25.1440.806" timestamp="1607794799719" />
+    <state x="448" y="158" key="NewPhpClassDialog/0.25.1440.808@0.25.1440.808" timestamp="1606844755888" />
+    <state x="541" y="355" key="NewPhpFileDialog" timestamp="1607793352374">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="541" y="368" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1607697568953" />
+    <state x="541" y="355" key="NewPhpFileDialog/0.25.1440.806@0.25.1440.806" timestamp="1607793352374" />
+    <state x="541" y="356" key="NewPhpFileDialog/0.25.1440.808@0.25.1440.808" timestamp="1606844721149" />
+    <state x="229" y="44" key="SettingsEditor" timestamp="1607085529271">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="44" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607085529271" />
+    <state x="229" y="64" key="SettingsEditor/0.25.1440.806@0.25.1440.806" timestamp="1606997786530" />
+    <state x="229" y="64" key="SettingsEditor/0.25.1440.808@0.25.1440.808" timestamp="1606846442885" />
+    <state x="326" y="166" key="Vcs.Push.Dialog.v2" timestamp="1607880981819">
+      <screen x="0" y="25" width="1440" height="808" />
+    </state>
+    <state x="326" y="166" key="Vcs.Push.Dialog.v2/0.25.1440.808@0.25.1440.808" timestamp="1607880981819" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1607499690006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607499690006" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Services/phpmailer/PHPMailer.php</url>
+          <line>3005</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

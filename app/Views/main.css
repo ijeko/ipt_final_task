@@ -1,0 +1,33 @@
+.form{
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px;
+    border-color: silver;
+}
+.header{
+    color: #59626a;
+}
+#dl{
+    color: indianred;
+}
+#dl:hover{
+    color: maroon;
+}
+.toast-header > a {
+    font-size: large;
+    color: #59626a;
+    text-decoration: none;
+}
+.toast-header > a:hover {
+    color: black;
+    transition: ease ,color, 500ms;
+
+}
+#message_text{
+    outline: none;
+    resize: none;
+    height: 120px;
+
+}
+#message{
+}
